@@ -1,0 +1,7 @@
+<suite name="MyTestSuite">
+    <test name="Test Annotations">
+        <classes>
+            <class name="MyTestSuite.TestAnnotations" />
+        </classes>
+    </test>
+</suite>
